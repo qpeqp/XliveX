@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
+#EXTM3U
 
 #🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴ULUSAL KANALLAR🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
@@ -231,7 +231,6 @@ http://139.162.182.79/live/test/index.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.af92.workers.dev/list/yayinnbatv.m3u8
 
-
 #🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPORTS KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS HABER" tvg-id="BeINSportsHaber.tr" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="[🇹🇷]beIN•Sports",beIN SPORTS HABER
@@ -324,8 +323,6 @@ https://tv1.arectv30.sbs/live/pl2.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/pl3.m3u8
 
-
-
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="EuroSport 1" tvg-id="EuroSport.tr" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",EuroSport 1
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
@@ -358,7 +355,6 @@ https://tv1.arectv30.sbs/live/t3.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/t4.m3u8
 
-
 #〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️TABİİ SPOR〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 #EXTINF:-1  tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor.tr" tvg-name="TABİİ SPOR HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR HD
@@ -377,76 +373,15 @@ https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 5.tr" tvg-name="TABİİ SPOR 5 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 5 HD
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
+https:/z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 5.tr" tvg-name="TABİİ SPOR 6 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 6 HD
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
-
-
-#✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️ESPN SPORTS✖️✖️✖️✖️✖️✖️✖️✖️✖️✖️
-
-#EXTINF:-1 tvg-name="ESPN HD" tvg-id="" tvg-logo="" group-title="[🇺🇸]ESPN SPORTS [RAW]",ESPN HD
-https://tinyurl.com/SyndraxicESPN
-
-#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-id="" tvg-logo="" group-title="[🇺🇸]ESPN SPORTS [RAW]",ESPN 2 HD
-https://tinyurl.com/SyndraxicESPN2
-
-#EXTINF:-1 tvg-name="ESPN U HD" tvg-id="" tvg-logo="" group-title="[🇺🇸]ESPN SPORTS [RAW]",ESPN U HD
-https://tinyurl.com/SyndraxicESPNu
-
-#EXTINF:-1 tvg-name="ESPN DEPORTES HD" tvg-id="" tvg-logo="" group-title="[🇺🇸]ESPN SPORTS [RAW]",ESPN DEPORTES HD
-https://tinyurl.com/SyndraxicESPNdeportes
-
 
 #⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️SİNEMA KANALLARI⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 
 #EXTINF:-1 tvg-id="73" tvg-name="FX" tvg-logo="" group-title="[🇹🇷]Sinema",FX
 https://saran-live.ercdn.net/fx/index.m3u8
-
-#EXTINF:-1 tvg-id="67" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="[🇹🇷]Sinema",MOVİESMART TÜRK
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/mvturk.m3u8
-
-#EXTINF:-1 tvg-id="61" tvg-name="SİNEMA TV" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinema.m3u8
-
-#EXTINF:-1 tvg-id="60" tvg-name="SİNEMA TV 2" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV 2
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinema2.m3u8
-
-#EXTINF:-1 tvg-id="59" tvg-name="SİNEMA TV AKSİYON" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV AKSİYON
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinemaaksiyon.m3u8
-
-#EXTINF:-1 tvg-id="57" tvg-name="SİNEMA TV KOMEDİ" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV KOMEDİ
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
-
-#EXTINF:-1 tvg-id="56" tvg-name="SİNEMA TV YERLİ" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV YERLİ
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinemayerli.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-name="SİNEMA TV AİLE" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV AİLE
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinemaaile.m3u8
-
-#EXTINF:-1 tvg-id="53" tvg-name="SİNEMA TV 1001" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV 1001
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinema1001.m3u8
-
-#EXTINF:-1 tvg-id="52" tvg-name="SİNEMA TV 1002" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV 1002
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinema1002.m3u8
 
 #⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️MÜZİK KANALLARI⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
 
