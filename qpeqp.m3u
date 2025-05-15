@@ -231,6 +231,78 @@ http://139.162.182.79/live/test/index.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://r14.af92.workers.dev/list/yayinnbatv.m3u8
 
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="S SPORT" tvg-id="S SPORT.tr" tvg-logo="" group-title="[🇹🇷]Spor",S-SPORT
+https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="S SPORT-2" tvg-id="S SPORT 2.tr" tvg-logo="" group-title="[🇹🇷]Spor",S-SPORT 2
+https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="S-SPORT+1" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",S-SPORT+1
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/pl1.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="S-SPORT+2" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",S-SPORT+2
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/pl2.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="S-SPORT+3" tvg-id="" tvg-logo="" group-title="[🇹🇷]Spor",S-SPORT+3
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/pl3.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="EuroSport 1" tvg-id="EuroSport.tr" tvg-logo="" group-title="[🇹🇷]Spor",EuroSport 1
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/euro1.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="EuroSport 2" tvg-id="EuroSport 2.tr" tvg-logo="" group-title="[🇹🇷]Spor",EuroSport 2
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/euro2.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 1 HD" tvg-id="Tivibu Spor 1.tr" tvg-logo="" group-title="[🇹🇷]Spor",TİVİBU SPOR HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t1.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 2 HD" tvg-id="Tivibu Spor 2.tr" tvg-logo="" group-title="[🇹🇷]Spor",TİVİBU SPOR 2 HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t2.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 3 HD" tvg-id="" tvg-logo="Tivibu Spor 3.tr" group-title="[🇹🇷]Spor",TİVİBU SPOR 3 HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t3.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 4 HD" tvg-id="" tvg-logo="Tivibu Spor 4.tr" group-title="[🇹🇷]Spor",TİVİBU SPOR 4 HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t4.m3u8
+
+#EXTINF:-1  tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor.tr" tvg-name="TABİİ SPOR HD" tvg-logo="" group-title="[🇹🇷]Spor",TABİİ SPOR HD
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 1.tr" tvg-name="TABİİ SPOR 1 HD" tvg-logo="" group-title="[🇹🇷]Spor",TABİİ SPOR 1 HD
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 2.tr" tvg-name="TABİİ SPOR 2 HD" tvg-logo="" group-title="[🇹🇷]Spor",TABİİ SPOR 2 HD
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 3.tr" tvg-name="TABİİ SPOR 3 HD" tvg-logo="" group-title="[🇹🇷]Spor",TABİİ SPOR 3 HD
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 4.tr" tvg-name="TABİİ SPOR 4 HD" tvg-logo="" group-title="[🇹🇷]Spor",TABİİ SPOR 4 HD
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 5.tr" tvg-name="TABİİ SPOR 5 HD" tvg-logo="" group-title="[🇹🇷]Spor",TABİİ SPOR 5 HD
+https:/z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 5.tr" tvg-name="TABİİ SPOR 6 HD" tvg-logo="" group-title="[🇹🇷]Spor",TABİİ SPOR 6 HD
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
+
 #🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPORTS KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="beIN SPORTS HABER" tvg-id="BeINSportsHaber.tr" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" group-title="[🇹🇷]beIN•Sports",beIN SPORTS HABER
@@ -300,83 +372,8 @@ https://tv1.arectv30.sbs/live/bm2.m3u8
 #EXTVLCOPT:http-referrer=https://google.com/
 https://str.filmizlesekmi.top/GLB/?static=gurme
 
-#🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰S-SPORT/EUROSPORT🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="S SPORT" tvg-id="S SPORT.tr" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",S-SPORT
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="S SPORT-2" tvg-id="S SPORT 2.tr" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",S-SPORT 2
-https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="S-SPORT+1" tvg-id="" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",S-SPORT+1
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/pl1.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="S-SPORT+2" tvg-id="" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",S-SPORT+2
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/pl2.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="S-SPORT+3" tvg-id="" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",S-SPORT+3
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/pl3.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="EuroSport 1" tvg-id="EuroSport.tr" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",EuroSport 1
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/euro1.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="EuroSport 2" tvg-id="EuroSport 2.tr" tvg-logo="" group-title="[🇹🇷]S-SPORT/EuroSport",EuroSport 2
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/euro2.m3u8
-
 #➖➖➖➖➖➖➖➖➖➖TİVİBU SPOR KANALLARI➖➖➖➖➖➖➖➖➖➖
 
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 1 HD" tvg-id="Tivibu Spor 1.tr" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR HD
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/t1.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 2 HD" tvg-id="Tivibu Spor 2.tr" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 2 HD
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/t2.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 3 HD" tvg-id="" tvg-logo="Tivibu Spor 3.tr" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 3 HD
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/t3.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 4 HD" tvg-id="" tvg-logo="Tivibu Spor 4.tr" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 4 HD
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/t4.m3u8
-
-#〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️TABİİ SPOR〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-#EXTINF:-1  tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor.tr" tvg-name="TABİİ SPOR HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR HD
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 1.tr" tvg-name="TABİİ SPOR 1 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 1 HD
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 2.tr" tvg-name="TABİİ SPOR 2 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 2 HD
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 3.tr" tvg-name="TABİİ SPOR 3 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 3 HD
-https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 4.tr" tvg-name="TABİİ SPOR 4 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 4 HD
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 5.tr" tvg-name="TABİİ SPOR 5 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 5 HD
-https:/z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 5.tr" tvg-name="TABİİ SPOR 6 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 6 HD
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8
 
 #⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️SİNEMA KANALLARI⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 
